@@ -1,16 +1,15 @@
-# spotifyui
+# Spotify-ui
 
-A new Flutter project.
+This is a Spotify User Interface made using Flutter by me.
 
-## Getting Started
+# Screenshots of the UI
 
-This project is a starting point for a Flutter application.
+Home Page            |  Search Page                   | Library Page               | Membership Page
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
+![Screenshot_1628684507](https://user-images.githubusercontent.com/77121931/129036477-c114e44d-9d7c-4f39-a0a6-174fc48f0d57.png) |  ![Screenshot_1628684513](https://user-images.githubusercontent.com/77121931/129036549-7224294e-cd0d-4ac8-923f-983559a12bdb.png)|![Screenshot_1628684518](https://user-images.githubusercontent.com/77121931/129036943-d792a637-a29e-45e4-9689-7e37a2c30939.png)|![Screenshot_1628684523](https://user-images.githubusercontent.com/77121931/129037121-4e5b50ce-4bd5-427e-863c-48f3c7291cf8.png)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Packages Used: 
+getwidget - https://pub.dev/packages/getwidget <br />
+font_awesome_flutter - https://pub.dev/packages/font_awesome_flutter <br />
