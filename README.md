@@ -2,7 +2,7 @@
 
 This is a Spotify User Interface made using Flutter by me.
 
-# Screenshots of the UI
+# Screenshots of the Project
 
 Home Page            |  Search Page                   | Library Page               | Membership Page
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
