@@ -15,6 +15,6 @@ getwidget - https://pub.dev/packages/getwidget <br />
 font_awesome_flutter - https://pub.dev/packages/font_awesome_flutter <br />
 
 # Connect with me on:
-Linkedin: https://www.linkedin.com/in/samit-kapoor-771160210/ <br />
+Linkedin: https://www.linkedin.com/in/samit-kapoor/ <br />
 Instagram: https://www.instagram.com/im_samit/ <br />
 Gmail: samitkapoor77@gmail.com
